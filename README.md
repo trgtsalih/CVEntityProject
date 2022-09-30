@@ -1,1 +1,1 @@
-# CVEntityProject
+# CV Entity Project
